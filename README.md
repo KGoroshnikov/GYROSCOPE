@@ -5,7 +5,9 @@ If you don't want to bother with all this, then in the Unity project the charact
 ## Overview
 The application is designed to be used on Android to send data from a gyroscope to a PC via the UDP protocol (for character control).  
 The devices MUST be on the same WI-FI network.  
-To use this application, you need to install it on Android (the finished version is in Release), as well as follow several steps so that the data can be sent successfully.
+To use this application, you need to install it on Android (the finished version is in Release), as well as follow several steps so that the data can be sent successfully.  
+App UI:  
+![App UI](./imgs/AppUI.png)  
 
 ## Install
 1. Add a new rule for UDP port
